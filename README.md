@@ -213,29 +213,9 @@ Netflix-Content-Analytics-SQL/
 
 - SQL Query Writing
 - Data Exploration
-- Data Cleaning
 - Data Analysis
 - Business Problem Solving
 - Window Functions
 - CTEs
 - Analytical Thinking
 
----
-
-## 👨‍💻 Author
-
-### U. Surya Prakash
-
-Data Science Student | Aspiring Data Analyst
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-
----
-
-## ⭐ Project Outcome
-
-This project demonstrates the use of SQL for solving real-world business problems and extracting actionable insights from a large-scale entertainment dataset.
-
-It serves as a portfolio project showcasing SQL proficiency for Data Analyst, Business Analyst, and Data Science roles.
