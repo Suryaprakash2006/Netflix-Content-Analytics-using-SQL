@@ -178,19 +178,15 @@ Netflix-Content-Analytics-SQL/
 │
 ├── dataset/
 │   └── netflix_titles.csv
+│   └── data_dictionary.md
 │
 ├── sql/
 │   ├── schema.sql
-│   └── business_problems.sql
-│
-├── screenshots/
-│   ├── query_01.png
-│   ├── query_02.png
-│   └── ...
+│   └── basic_analysis.sql
+│   └── intermediate_analysis.sql
+│   └── advanced_analysis.sql
 │
 ├── README.md
-│
-└── LICENSE
 ```
 
 ---
